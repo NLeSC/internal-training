@@ -1,9 +1,9 @@
 {
   "publicProps": {
-    "title": "Netherlands Internal Training",
-    "baseURL": "NEBULA-content-template",
-    "repoName": "NEBULA-content-template",
-    "repoOwner": "esciencecenter-digital-skills",
+    "title": "eScience Internal Training",
+    "baseURL": "escience-internal-training",
+    "repoName": "internal-training",
+    "repoOwner": "NLeSC",
     "organization": "Netherlands eScience Center",
     "categoryOrder": ["Module1", "Module2", "Module3", "Module4"]
   }
