@@ -4,7 +4,7 @@ category: Module4
 order: 2 
 author: eScience Center
 abstract: 
-thumbnail: "api-design_v2.png"
+thumbnail: "human-aspects-of-software-engineering.jpg"
 visibility: visible
 ---
 

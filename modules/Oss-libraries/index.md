@@ -1,10 +1,10 @@
 ---
-title:  Open Science and Reproducible Research 
+title: OSS libraries 
 category: Module4
-order: 3 
+order: 1 
 author: eScience Center
 abstract: 
-thumbnail: "UNESCO-Open_science-pillars-en.png"
+thumbnail: "open-source-software-1.jpg"
 visibility: visible
 ---
 

@@ -4,7 +4,7 @@ category: Module3
 order: 1 
 author: eScience Center
 abstract: 
-thumbnail: "software-testing1.jpg"
+thumbnail: "Git-and-GitHub-Basics-Course-The-Construct.jpg"
 visibility: visible
 ---
 

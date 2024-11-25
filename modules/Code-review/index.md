@@ -4,7 +4,7 @@ category: Module3
 order: 3
 author: eScience Center
 abstract: 
-thumbnail: "software-testing1.jpg"
+thumbnail: "code-review.png"
 visibility: visible
 ---
 

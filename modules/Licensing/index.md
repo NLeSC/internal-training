@@ -4,7 +4,7 @@ category: Module4
 order: 5 
 author: eScience Center
 abstract: 
-thumbnail: "api-design_v2.png"
+thumbnail: "software-license.jpg"
 visibility: visible
 ---
 

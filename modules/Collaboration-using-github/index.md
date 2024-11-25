@@ -4,7 +4,7 @@ category: Module3
 order: 2
 author: eScience Center
 abstract: 
-thumbnail: "software-testing1.jpg"
+thumbnail: "github-collaboration.jpg"
 visibility: visible
 ---
 
