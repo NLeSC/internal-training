@@ -5,6 +5,3 @@ order: 6
 ---
 
 ### Further Reading
-Extra material  
- 
- <TODO>

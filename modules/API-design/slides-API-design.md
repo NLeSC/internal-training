@@ -1,18 +1,18 @@
 ---
-title: GitHub the basics 
+title: API design 
 type: slides
 order: 3
 ---
 
 <!-- .slide: data-state="title" -->
 
-# GitHub the basics
+# API Design
 
 ===
 
 <!-- .slide: data-state="standard" -->
 
-## GitHub the basics <TODO> 
+## API Design  <TODO> 
  
 
 ===

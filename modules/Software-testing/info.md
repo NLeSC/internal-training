@@ -3,10 +3,9 @@ title: Learning objectives
 type: info
 order: 0
 ---
-- after completing Unit 2 you will have learned 
-  - the basics of reproducible research 
-  - the basics of project design 
-  - some important eScience best practices. 
 
- **Note**: Unit 2 does not involve practical hands-on; after completing Unit 1 you will have learned some of basics of modular programming and you should be able to apply the principle you have learned in this unit in your research projects.  
+- Understand the Role of Software Testing in Development: Learners will be able to explain the importance of software testing in enhancing productivity and improving code quality.
 
+- Apply Foundational Testing Practices in Research Projects: Learners will be able to implement basic testing techniques safely and effectively in their research projects.
+
+- Appreciate the Professional Perspective on Software Testing: Learners will be able to reflect on the broader scope and significance of software testing as a professional discipline.

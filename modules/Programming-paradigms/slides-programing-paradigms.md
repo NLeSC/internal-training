@@ -6,7 +6,7 @@ order: 3
 
 <!-- .slide: data-state="title" -->
 
-# GitHub the basics
+# Programming paradigms
 
 ===
 

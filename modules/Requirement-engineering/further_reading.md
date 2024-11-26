@@ -6,4 +6,4 @@ order: 5
 
 ### Further Reading
 
- -  Modularity in Software: A Retrospective by Dean Wampler: [conferenceTalk] (https://www.youtube.com/watch?v=yMc6s7qT988)
+- RequirementEngineering [Full course](https://www.youtube.com/playlist?list=PLUgFMzuE8lQDeixpbP3s6EyQx8PiNdeQL)

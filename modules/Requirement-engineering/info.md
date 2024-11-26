@@ -3,10 +3,9 @@ title: Learning objectives
 type: info
 order: 0
 ---
-- after completing Unit 5 you will have learned 
-  - the basics of reproducible research 
-  - the basics of project design 
-  - some important eScience best practices. 
 
- **Note**: Unit 5 does not involve practical hands-on; after completing Unit 1 you will have learned some of basics of modular programming and you should be able to apply the principle you have learned in this unit in your research projects.  
+- Understand the Importance of Requirements Engineering: Learners will be able to explain the role of requirements engineering in ensuring that software meets the needs of users and stakeholders, contributing to the success and satisfaction of software projects.
 
+- Explore Agile Methodologies in Software Development: Learners will be able to describe key Agile principles and how they are applied in the context of requirements engineering to enhance flexibility and responsiveness in software development.
+
+- Apply Requirements Engineering Practices in Software Projects:Learners will be able to apply the principles of requirements engineering and Agile methodologies to develop clear, actionable requirements that align with user and stakeholder needs, improving the effectiveness of software development processes.

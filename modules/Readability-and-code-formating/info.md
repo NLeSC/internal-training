@@ -3,10 +3,9 @@ title: Learning objectives
 type: info
 order: 0
 ---
-- after completing Unit 3 you will have learned 
-  - the basics of reproducible research 
-  - the basics of project design 
-  - some important eScience best practices. 
 
- **Note**: Unit 3 does not involve practical hands-on; after completing Unit 1 you will have learned some of basics of modular programming and you should be able to apply the principle you have learned in this unit in your research projects.  
+- Understand the Importance of Code Readability: Learners will be able to explain how readable code enhances debugging, maintenance, and extensibility, and why it is essential for collaborative and long-term software development.
 
+- Apply Principles of Clean Code and Formatting: Learners will be able to write readable and well-formatted code by incorporating concepts from Clean Code by Robert C. Martin.
+
+- Follow Python-Specific Coding Standards: Learners will be able to apply the PEP8 guidelines to improve the readability and consistency of Python code, recognizing its relevance to common practices in modern programming environments.

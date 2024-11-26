@@ -6,14 +6,9 @@ order: 5
 
 ### **Teaching Material**
 
-Data structure, Algorithms, sorting & searching, [freeCodeCamp.org]()
+- APIs for Beginners - How to use an API,[freeCodeCamp.org](https://www.youtube.com/watch?v=GZvSYJDk-us)
 
-Teaching material
+- General introduction and Design API patterns [Book chapter](https://livebook.manning.com/book/api-design-patterns/chapter-1/)
 
-Data Preprocessing, Cleaning/Normalization, Mark Crowley [online lecture, 45mn]
-
-Fundamentals of data storage and access: [database types, relational and NoSQL, 18mn] [Sharding, 17mn] [messsage queues, 22mn]
-
-Introduction to Descriptive Statistics [descriptive statistics, 13mn and data visualization methods, 60mn]
-
+- What is API design? Red Hat® Shares [NewLetters](https://www.redhat.com/en/topics/api)
 

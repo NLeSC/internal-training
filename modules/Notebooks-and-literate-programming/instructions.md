@@ -4,9 +4,9 @@ type: reading
 order: 2
 ---
 
-### Instructions 
+### Instruction
 
-For Unit 4, we selected a couple of references which will help to motivate you to see the importance of software testing and its impact on your productivity and code quality. [1] is a very short video of Donald Knuth about the importance of Literature programming. [2] is a longer talk which stresses further the importance of literate programming and promotes a mind shift from documenting code to writing a book. The last reference is focused on the usage of notebooks in Data Science.  
+For Unit 4, we selected a couple of references which will help to motivate you to see the importance of literate programming and Notebooks. [1] is a very short video of Donald Knuth about the importance of Literature programming. [2] is a longer talk which stresses further the importance of literate programming and promotes a mind shift from documenting code to writing a book. The last reference is focused on the usage of notebooks in Data Science.  
  
 **To complete Unit 4, you are expected to:** 
 

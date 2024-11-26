@@ -3,10 +3,9 @@ title: Learning objectives
 type: info
 order: 0
 ---
-- after completing Unit 1 you will have learned 
-  - the basics of reproducible research 
-  - the basics of project design 
-  - some important eScience best practices. 
 
- **Note**: Unit 1 does not involve practical hands-on; after completing Unit 1 you will have learned some of basics of modular programming and you should be able to apply the principle you have learned in this unit in your research projects.  
+- Understand the Basics of GitHub: Learners will be able to explain the fundamental concepts of GitHub, including version control, repositories, and the basic Git commands such as commit, add, and push, which are essential for day-to-day development tasks.
 
+- Apply GitHub for Collaborative Software Development: Learners will be able to use GitHub effectively for collaborative projects, understanding how to manage repositories, contribute to shared codebases, and track changes through commits and branches.
+
+- Navigate and Utilize GitHub Learning Resources: Learners will be able to leverage official GitHub documentation, GitHub Learning Lab, and other tutorials to enhance their GitHub skills and troubleshoot common issues, becoming more efficient in using GitHub for their development work.
