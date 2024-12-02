@@ -1,7 +1,7 @@
 {
   "publicProps": {
     "title": "eScience Internal Training",
-    "baseURL": "internal-training",
+    "baseURL": "/internal-training/",
     "repoName": "internal-training",
     "repoOwner": "NLeSC",
     "organization": "Netherlands eScience Center",
