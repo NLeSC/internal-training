@@ -4,7 +4,7 @@ category: Module2
 order: 1 
 author: eScience Center
 abstract: 
-thumbnail: "Modularity-in-Software-Engineering.png"
+thumbnail: "thumbnail-modularityse.png"
 visibility: visible
 ---
 

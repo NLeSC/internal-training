@@ -4,7 +4,7 @@ category: Module4
 order: 5 
 author: eScience Center
 abstract: 
-thumbnail: "software-license.jpg"
+thumbnail: "thumbnail-sotwarelicense.jpg"
 visibility: visible
 ---
 

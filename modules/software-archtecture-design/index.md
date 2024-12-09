@@ -4,7 +4,7 @@ category: Module1
 order: 4 
 author: eScience Center
 abstract: 
-thumbnail: "software-architecture.jpeg"
+thumbnail: "thumbnail-softwarearchitecture.jpg"
 visibility: visible
 ---
 

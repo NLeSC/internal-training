@@ -4,7 +4,7 @@ category: Module1
 order: 3 
 author: eScience Center
 abstract: 
-thumbnail: "data-structure-algorithms.jpeg"
+thumbnail: "thumbnail-datastructurealgorithms.jpg"
 visibility: visible
 ---
 

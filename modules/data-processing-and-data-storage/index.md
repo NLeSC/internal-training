@@ -4,7 +4,7 @@ category: Module1
 order: 7 
 author: eScience Center
 abstract: 
-thumbnail: "data-processing.png"
+thumbnail: "thumbnail-dataprocessing.png"
 visibility: visible
 ---
 

@@ -4,7 +4,7 @@ category: Module1
 order: 2 
 author: eScience Center
 abstract: 
-thumbnail: "programming-paradigms.jpeg"
+thumbnail: "thumbnail-programmingparadigms.jpg"
 visibility: visible
 ---
 

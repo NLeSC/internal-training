@@ -4,7 +4,7 @@ category: Module2
 order: 5
 author: eScience Center
 abstract: 
-thumbnail: "requirements-engineering.jpg"
+thumbnail: "thumbnail-requirementsengineering.jpg"
 visibility: visible
 ---
 

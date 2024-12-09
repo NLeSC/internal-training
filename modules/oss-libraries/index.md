@@ -4,7 +4,7 @@ category: Module4
 order: 1 
 author: eScience Center
 abstract: 
-thumbnail: "open-source-software-1.jpg"
+thumbnail: "thumbnail-openscience.jpg"
 visibility: visible
 ---
 

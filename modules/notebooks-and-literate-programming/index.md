@@ -4,7 +4,7 @@ category: Module2
 order: 4
 author: eScience Center
 abstract: 
-thumbnail: "literate-programming.jpeg"
+thumbnail: "thumbnail-literateprograming.jpg"
 visibility: visible
 ---
 

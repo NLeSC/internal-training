@@ -4,7 +4,7 @@ category: Module4
 order: 2 
 author: eScience Center
 abstract: 
-thumbnail: "human-aspects-of-software-engineering.jpg"
+thumbnail: "thumbnail-haose.jpg"
 visibility: visible
 ---
 

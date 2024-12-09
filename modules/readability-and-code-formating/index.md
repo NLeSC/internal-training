@@ -4,7 +4,7 @@ category: Module2
 order: 3 
 author: eScience Center
 abstract: 
-thumbnail: "Code-readability.png"
+thumbnail: "thumbnail-codereadability.png"
 visibility: visible
 ---
 

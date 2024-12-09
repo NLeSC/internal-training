@@ -4,7 +4,7 @@ category: Module1
 order: 5 
 author: eScience Center
 abstract: 
-thumbnail: "performance-optimization.jpeg"
+thumbnail: "thumbnail-performanceoptimization.jpg"
 visibility: visible
 ---
 

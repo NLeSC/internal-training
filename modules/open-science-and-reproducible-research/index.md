@@ -4,7 +4,7 @@ category: Module4
 order: 3 
 author: eScience Center
 abstract: 
-thumbnail: "UNESCO-Open_science-pillars-en.png"
+thumbnail: "thumbnail-openscience.png"
 visibility: visible
 ---
 

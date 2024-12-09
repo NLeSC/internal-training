@@ -4,7 +4,7 @@ category: Module1
 order: 33 
 author: eScience Center
 abstract: 
-thumbnail: "api-design_v2.png"
+thumbnail: "thumbnail-apidesign.png"
 visibility: visible
 ---
 

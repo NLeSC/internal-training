@@ -4,7 +4,7 @@ category: Module1
 order: 1 
 author: eScience Center
 abstract: 
-thumbnail: "Research-software.jpeg"
+thumbnail: "thumbnail-softwareengineering.jpg"
 visibility: visible
 ---
 
