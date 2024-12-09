@@ -5,6 +5,8 @@
     "repoName": "internal-training",
     "repoOwner": "NLeSC",
     "organization": "Netherlands eScience Center",
+    "organizationURL": "https://www.esciencecenter.nl",
+    "organizationLogo": "main/media/nlesc-surf.svg",
     "categoryOrder": ["Module1", "Module2", "Module3", "Module4"]
   }
 }
