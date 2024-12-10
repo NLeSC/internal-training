@@ -4,7 +4,7 @@ category: Module3
 order: 3
 author: eScience Center
 abstract: 
-thumbnail: "thumbnail-codereview.png"
+thumbnail: "thumbnail-codereview.jpg"
 visibility: visible
 ---
 
