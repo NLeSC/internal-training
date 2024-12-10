@@ -7,7 +7,7 @@ The training programme aims to help RSEs learn the fundamental computer science 
  - **Module 3**: Collaborative Development   
  - **Module 4**: Open-Source Software (OSS)
 
-Internal training is provided both for onboarding new RSEs and for helping current RSEs develop new skills needed for their daily work at the center. The internal training sessions are offered in individual or group formats under the coaching of one of the Tech Leads. Please always discuss your interest in participating in internal training with your line manager.
+ The Training is provided both for onboarding junior RSEs and for helping senior RSEs develop new skills needed for their daily work at the center. The  training sessions are offered in individual or group formats under the coaching of one of the Tech Leads. Please always discuss your interest in participating in internal training with your line manager.
 
 ​Please contact "TechLeads" <techleads@esciencecenter.nl> if you have any further questions.
 
