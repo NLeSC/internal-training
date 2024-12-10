@@ -1,5 +1,5 @@
 
-# Internal Training for Research Software Engineers
+#  Training for Research Software Engineers
 The training programme aims to help RSEs learn the fundamental computer science and engineering concepts and shows how these concepts can impact performance, correctness, quality, and reusability of the research software they work on. The programme provides RSEs with relevant fundamental background knowledge on topics that have a direct impact on their daily work. The training program is customized for each RSE depending on the background, and the skills needed for projects on which the SRE is working:
 
  - **Module 1**: Introduction to computer science and software engineering
