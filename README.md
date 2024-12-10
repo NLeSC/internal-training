@@ -12,7 +12,7 @@ Internal training is provided both for onboarding new RSEs and for helping curre
 ​Please contact "TechLeads" <techleads@esciencecenter.nl> if you have any further questions.
 
 ## Contributing
-We welcome contributions to the content of the Training for Research Software Engineers. Please view [the contributing guidelines](https://github.com/esciencecenter-digital-skills/research-software-support/blob/main/CONTRIBUTING.md) for more information.
+We welcome contributions to the content of the Training for Research Software Engineers. Please view [the contributing guidelines](https://nlesc.github.io/internal-training/main/contribute) for more information.
 
 ## Technical documentation
 This platform uses the [NEBULA framework](https://github.com/esciencecenter-digital-skills/NEBULA).
