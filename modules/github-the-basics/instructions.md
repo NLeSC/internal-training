@@ -10,7 +10,7 @@ When it comes to GitHub there is plenty of online material which can help you to
  
 **To complete Unit 1, you are expected to:** 
 
- - Read/watch the suggested [teaching material](http://localhost:3000/internal-training/modules/Software-testing/teaching_material) 
+ - Read/watch the suggested [teaching material](http://nlesc.github.io/internal-training/modules/Software-testing/teaching_material) 
  - Prepare a list of questions and a short reflection on the suggested material. This will be used for the discussions during the weekly consultation hours with the coach.  
  - Please send the list of questions to your coach one day before the weekly meetings.. 
 

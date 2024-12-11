@@ -10,7 +10,7 @@ As an employee of the eScience Center a must-read document is the Netherlands eS
 
 **To complete Unit 1, you are expected to:** 
 
- - Read/watch the suggested [teaching material](http://localhost:3000/internal-training/modules/research-software/teaching_material) 
+ - Read/watch the suggested [teaching material](http://nlesc.github.io/internal-training/modules/research-software/teaching_material) 
  - Prepare a list of questions and a short reflection on the suggested material. This will be used for the discussions during the weekly consultation hours with the coach.  
  - Please send the list of questions to your coach one day before the weekly meetings.. 
 

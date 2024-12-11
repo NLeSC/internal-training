@@ -10,7 +10,7 @@ For Unit 3, we selected a couple of references which will help to attract your a
  
 **To complete Unit 3, you are expected to:** 
 
- - Read/watch the suggested [teaching material](http://localhost:3000/internal-training/readability-and-code-formatting/teaching_material) 
+ - Read/watch the suggested [teaching material](http://nlesc.github.io/internal-training/readability-and-code-formatting/teaching_material) 
  - Prepare a list of questions and a short reflection on the suggested material. This will be used for the discussions during the weekly consultation hours with the coach.  
  - Please send the list of questions to your coach one day before the weekly meetings.. 
 

@@ -18,4 +18,5 @@ To complete Unit 3, you are expected to:
 
 Important: the proposed material includes hands-on assignments. Do try them and if you encounter issues you cannot solve, do share them with your coach. 
 
+
 Time expected to complete this unit: **4 hours**
